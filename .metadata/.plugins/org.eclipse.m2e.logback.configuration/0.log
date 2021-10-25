@@ -1,0 +1,76 @@
+2021-10-25 15:34:25,344 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-25 15:35:53,210 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wordcount:WordCount:0.0.1-SNAPSHOT @ C:\Users\SAI TEJA\Desktop\ASSZIP\Ass\WordCount\pom.xml.
+2021-10-25 15:35:54,537 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WordCount/src/main/java
+2021-10-25 15:35:54,539 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WordCount/src/test/java
+2021-10-25 15:35:54,614 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2021-10-25 15:35:58,476 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:35:58,477 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SAI TEJA\Desktop\ASSZIP\Ass\WordCount\src\main\resources
+2021-10-25 15:35:58,480 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:35:58,480 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SAI TEJA\Desktop\ASSZIP\Ass\WordCount\src\test\resources
+2021-10-25 15:37:05,762 [Worker-7: Creating project "com.stub"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Demo:com.stub:0.0.1-SNAPSHOT @ C:\Users\SAI TEJA\Desktop\USTGITREPO\com.stub\pom.xml.
+2021-10-25 15:37:06,075 [Worker-7: Creating project "com.stub"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.stub/src/main/java
+2021-10-25 15:37:06,076 [Worker-7: Creating project "com.stub"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.stub/src/main/resources
+2021-10-25 15:37:06,078 [Worker-7: Creating project "com.stub"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.stub/src/test/java
+2021-10-25 15:37:06,078 [Worker-7: Creating project "com.stub"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.stub/src/test/resources
+2021-10-25 15:37:06,408 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 15:37:06,424 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 15:37:06,428 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 15:37:06,429 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 15:37:59,713 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-10-25 15:38:00,515 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wordcount:WordCount:0.0.1-SNAPSHOT @ C:\Users\SAI TEJA\Desktop\ASSZIP\Ass\WordCount\pom.xml.
+2021-10-25 15:38:00,713 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WordCount/src/main/java
+2021-10-25 15:38:00,714 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WordCount/src/test/java
+2021-10-25 15:38:00,838 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-10-25 15:38:01,031 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:38:01,032 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SAI TEJA\Desktop\ASSZIP\Ass\WordCount\src\main\resources
+2021-10-25 15:38:01,034 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:38:01,035 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SAI TEJA\Desktop\ASSZIP\Ass\WordCount\src\test\resources
+2021-10-25 15:40:49,589 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-25 15:43:04,445 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.primes:Primes:0.0.1-SNAPSHOT @ C:\Users\SAI TEJA\Desktop\USTGITREPO\Primes\pom.xml.
+2021-10-25 15:43:04,833 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 15:43:04,840 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 15:43:04,894 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 15:43:04,896 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 15:43:05,960 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.primes:Primes:0.0.1-SNAPSHOT @ C:\Users\SAI TEJA\Desktop\USTGITREPO\Primes\pom.xml.
+2021-10-25 15:43:07,311 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 15:43:07,314 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 15:43:07,317 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 15:43:07,318 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 15:50:25,889 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.numberlist:NumbersList:0.0.1-SNAPSHOT @ C:\Users\SAI TEJA\Desktop\USTGITREPO\NumbersList\pom.xml.
+2021-10-25 15:50:26,337 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NumbersList/src/main/java
+2021-10-25 15:50:26,339 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NumbersList/src/test/java
+2021-10-25 15:50:26,428 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2021-10-25 15:50:27,154 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:50:27,155 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SAI TEJA\Desktop\USTGITREPO\NumbersList\src\main\resources
+2021-10-25 15:50:27,159 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:50:27,159 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SAI TEJA\Desktop\USTGITREPO\NumbersList\src\test\resources
+2021-10-25 15:50:51,495 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.count:wordsfrequency:0.0.1-SNAPSHOT @ C:\Users\SAI TEJA\Desktop\USTGITREPO\wordsfrequency\pom.xml.
+2021-10-25 15:50:51,537 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wordsfrequency/src/main/java
+2021-10-25 15:50:51,538 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wordsfrequency/src/main/resources
+2021-10-25 15:50:51,539 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wordsfrequency/src/test/java
+2021-10-25 15:50:51,539 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wordsfrequency/src/test/resources
+2021-10-25 15:50:51,570 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2021-10-25 15:50:51,898 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:50:51,899 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 15:50:51,902 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:50:51,902 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 15:50:53,166 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:50:53,218 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 15:50:53,220 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:50:53,221 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 15:50:58,773 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:50:58,773 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SAI TEJA\Desktop\USTGITREPO\NumbersList\src\main\resources
+2021-10-25 15:50:58,775 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:50:58,776 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SAI TEJA\Desktop\USTGITREPO\NumbersList\src\test\resources
+2021-10-25 15:50:58,783 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 15:50:58,785 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 15:50:58,786 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 15:50:58,788 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 15:50:58,797 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:50:58,797 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 15:50:58,800 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:50:58,801 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-25 15:51:37,270 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:51:37,270 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SAI TEJA\Desktop\USTGITREPO\NumbersList\src\main\resources
+2021-10-25 15:51:37,272 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-25 15:51:37,273 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SAI TEJA\Desktop\USTGITREPO\NumbersList\src\test\resources
